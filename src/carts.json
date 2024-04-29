@@ -41,6 +41,20 @@
         "precio": 299.99,
         "descripcion": "Cámara digital compacta de 20 megapíxeles",
         "categoria": "Tecnología"
+      },
+      {
+        "id": 3,
+        "nombre": "Zapatillas deportivas",
+        "precio": 49.99,
+        "descripcion": "Zapatillas deportivas para correr",
+        "categoria": "Deportes"
+      },
+      {
+        "id": 3,
+        "nombre": "Zapatillas deportivas",
+        "precio": 49.99,
+        "descripcion": "Zapatillas deportivas para correr",
+        "categoria": "Deportes"
       }
     ]
   }
